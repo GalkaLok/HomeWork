@@ -9,13 +9,8 @@ int C = int.Parse(Console.ReadLine()!);
 
 int max = A;
 
-if (B > max)
-{
-    int max = B;
-}
-else if (C > max)
-{
-    int max = C;
-}
+if (B > max) max = B;
+if (C > max) max = C;
 
-Console.WriteLine($"Максимальное число = {max}");
+
+Console.WriteLine($"Максимальное число {max}");

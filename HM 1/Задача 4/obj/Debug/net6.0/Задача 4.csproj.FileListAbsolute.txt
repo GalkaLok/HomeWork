@@ -3,3 +3,13 @@ C:\Users\Home\Desktop\HomeWork\HM 1\Задача 4\obj\Debug\net6.0\Задача
 C:\Users\Home\Desktop\HomeWork\HM 1\Задача 4\obj\Debug\net6.0\Задача 4.AssemblyInfoInputs.cache
 C:\Users\Home\Desktop\HomeWork\HM 1\Задача 4\obj\Debug\net6.0\Задача 4.AssemblyInfo.cs
 C:\Users\Home\Desktop\HomeWork\HM 1\Задача 4\obj\Debug\net6.0\Задача 4.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\HomeWork\HM 1\Задача 4\bin\Debug\net6.0\Задача 4.exe
+C:\Users\Home\Desktop\HomeWork\HM 1\Задача 4\bin\Debug\net6.0\Задача 4.deps.json
+C:\Users\Home\Desktop\HomeWork\HM 1\Задача 4\bin\Debug\net6.0\Задача 4.runtimeconfig.json
+C:\Users\Home\Desktop\HomeWork\HM 1\Задача 4\bin\Debug\net6.0\Задача 4.dll
+C:\Users\Home\Desktop\HomeWork\HM 1\Задача 4\bin\Debug\net6.0\Задача 4.pdb
+C:\Users\Home\Desktop\HomeWork\HM 1\Задача 4\obj\Debug\net6.0\Задача 4.dll
+C:\Users\Home\Desktop\HomeWork\HM 1\Задача 4\obj\Debug\net6.0\refint\Задача 4.dll
+C:\Users\Home\Desktop\HomeWork\HM 1\Задача 4\obj\Debug\net6.0\Задача 4.pdb
+C:\Users\Home\Desktop\HomeWork\HM 1\Задача 4\obj\Debug\net6.0\Задача 4.genruntimeconfig.cache
+C:\Users\Home\Desktop\HomeWork\HM 1\Задача 4\obj\Debug\net6.0\ref\Задача 4.dll
