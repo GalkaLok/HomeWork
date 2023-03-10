@@ -3,12 +3,12 @@
 
 Console.Clear();
 
-int Recurs(int N, int M)
+int Recurs(int M, int N)
 {
     if (N == M) return N;
     else
     {
-        return Recurs(N - 1, M) + N;
+        return Recurs(M, N-1) + N;
     }
 }
 
@@ -18,4 +18,4 @@ int M = int.Parse(Console.ReadLine()!);
 Console.Write("Введите число N: ");
 int N = int.Parse(Console.ReadLine()!);
 
-Console.WriteLine(Recurs(N, M));
+Console.WriteLine(Recurs(M, N));
